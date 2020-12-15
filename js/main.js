@@ -50,7 +50,7 @@ function getParameters() {
         maxCorpusCount: -1,
         minDictionaryCount: 1,
         maxDictionaryCount: -1,
-        apiUrl: "http://api.wordnik.com:80/v4/words.json/randomWords",
+        apiUrl: "https://api.wordnik.com/v4/words.json/randomWords",
         key: "a7ed8b27e3cc25fb5200c0bb50702461a1decb749750db2f0"
     };
     storeData();
